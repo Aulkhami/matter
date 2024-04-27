@@ -39,7 +39,7 @@ To find the latest version of Plasma, check out [this page](https://wally.run/pa
 
 ```toml title="wally.toml"
 [dependencies]
-plasma = "matter-ecs/plasma@0.4.2"
+plasma = "matter-ecs/plasma@0.4.4"
 ```
 
 ### Create the debugger
